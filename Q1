@@ -38,7 +38,7 @@ int main( )
         // Closing the file using fclose()
         fclose(filePointer) ;
          
-        printf("Data successfully written in file GfgTest.c\n");
+        printf("Data successfully written in file noneq1.c\n");
         printf("The file is now closed.") ;
     }
     return 0;       
